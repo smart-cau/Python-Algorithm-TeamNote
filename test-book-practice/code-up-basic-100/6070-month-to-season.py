@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6070
+
 if __name__ == '__main__':
     month = int(input())
 

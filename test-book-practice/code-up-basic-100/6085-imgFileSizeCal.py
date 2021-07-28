@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6085
+
 if __name__ == '__main__':
     w, b, h = map(int, input().split())
     bit_size = w * b * h

@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6092
+
 if __name__ == '__main__':
     repeat = int(input())
     input_arr = list(map(int, input().split()))

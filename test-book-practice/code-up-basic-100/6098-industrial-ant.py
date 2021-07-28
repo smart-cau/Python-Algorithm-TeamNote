@@ -1,4 +1,4 @@
-# 문제링크: https://codeup.kr/problem.php?id=6098
+# 문제 링크: https://codeup.kr/problem.php?id=6098
 
 if __name__ == '__main__':
     ant_nest = [list(map(int, input().split())) for _ in range(10)]

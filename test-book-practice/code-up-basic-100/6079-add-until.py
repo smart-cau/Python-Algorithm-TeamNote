@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6079
+
 if __name__ == '__main__':
     num = int(input())
     n = 1

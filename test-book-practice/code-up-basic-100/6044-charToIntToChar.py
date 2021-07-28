@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6044
+
 if __name__ == '__main__':
     n = ord(input())  # ord()는 문자의 순서위치(ordinal position)의 값(ASCII or Unicode) 의미
     print(n)

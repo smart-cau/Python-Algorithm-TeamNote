@@ -1,4 +1,4 @@
-from functools import reduce
+# 문제 링크: https://codeup.kr/problem.php?id=6083
 
 if __name__ == '__main__':
     r, g, b = map(int, input().split())

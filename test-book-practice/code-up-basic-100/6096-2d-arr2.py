@@ -1,3 +1,5 @@
+# 문제 링크: https://codeup.kr/problem.php?id=6096
+
 if __name__ == '__main__':
 
     go_arr = [list(map(int, input().split())) for _ in range(19)]
